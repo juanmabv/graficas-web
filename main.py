@@ -41,4 +41,6 @@ if __name__ == "__main__":
     state_data = fetch_csv(STATE_DATA_URL)
     state_data = clean(state_data)
 
+    print(state_data)
+
     plot_cumulative_state(state_data, "index.html")
