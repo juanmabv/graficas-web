@@ -1,0 +1,113 @@
+{
+  "pobl": [
+    "#EE2A35",
+    "DarkGrey",
+    "#f5676f",
+    "#f0999f",
+    "#703236",
+    "lightslategrey"
+  ],
+  "ciec": [
+    "#db8206",
+    "DarkGrey",
+    "#fbb451",
+    "#fcc983",
+    "#955904",
+    "lightslategrey"
+  ],
+  "agri": [
+    "#ff80bf",
+    "DarkGrey",
+    "#ffb3d9",
+    "lightgrey"
+  ],
+  "indu": [
+    "#50B34E",
+    "DarkGrey",
+    "#a7d9a6",
+    "lightslategrey"
+  ],
+  "cons": [
+    "#054404",
+    "DarkGrey",
+    "#7bb37a",
+    "lightslategrey"
+  ],
+  "turi": [
+    "#20B2AA",
+    "DarkGrey",
+    "#A8F0EC",
+    "lightgrey"
+  ],
+  "come": [
+    "#6800FF",
+    "DarkGrey",
+    "#6A5ACD",
+    "#503675",
+    "#c6a6f5",
+    "lightgrey"
+  ],
+  "tran": [
+    "#5CF674",
+    "DarkGrey",
+    "lightskyblue",
+    "lightslategrey"
+  ],
+  "serv": [
+    "#BC1DB5",
+    "DarkGrey",
+    "#ee91e9",
+    "lightslategrey"
+  ],
+  "mela": [
+    "#79011F",
+    "DarkGrey",
+    "RosyBrown",
+    "SlateGrey",
+    "#8b2d44",
+    "#a65e70",
+    "#c99ca7"
+  ],
+  "prec": [
+    "#FED04D",
+    "DarkGrey",
+    "lightskyblue",
+    "lightslategrey"
+  ],
+  "exte": [
+    "#388EDC",
+    "DarkGrey",
+    "lightskyblue",
+    "lightslategrey"
+  ],
+  "spub": [
+    "#107064",
+    "DarkGrey",
+    "lightskyblue",
+    "lightslategrey"
+  ],
+  "vfin": [
+    "#CEB905",
+    "DarkGrey",
+    "lightskyblue",
+    "lightslategrey"
+  ],
+  "ereg": [
+    "#9D1B31",
+    "#de3b56",
+    "#e97c8e",
+    "#f4bec7"
+  ],
+  "sdig": [
+    "#AD5620",
+    "DarkGrey",
+    "lightskyblue",
+    "lightslategrey"
+  ],
+  "fisc": [
+    "#732EA2",
+    "DarkGrey",
+    "lightskyblue",
+    "lightslategrey"
+  ]
+}
