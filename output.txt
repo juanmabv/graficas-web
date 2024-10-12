@@ -1,0 +1,87 @@
+ERROR - error en el indicador 1_2_160_ind_conf_empr_arm_istac.px
+ERROR - error en el indicador 1_2_160_ind_conf_empr_arm_istac.px
+ERROR - error en el indicador 1_2_160_ind_conf_empr_arm_istac.px
+ERROR - error en el indicador 1_1_6_saldo_migratorio.px
+ERROR - error en el indicador 1_1_6_saldo_migratorio.px
+ERROR - error en el indicador 1_1_6_saldo_migratorio.px
+ERROR - error en el indicador 1_1_6_saldo_migratorio.px en el intento intento 0/3
+ERROR - error en el indicador 1_1_6_saldo_migratorio.px en el intento intento 1/3
+ERROR - error en el indicador 1_1_6_saldo_migratorio.px en el intento intento 2/3
+ERROR - error en el indicador 1_1_7_ind_envej.px en el intento intento 0/3
+ERROR - error en el indicador 1_1_7_ind_envej.px en el intento intento 1/3
+ERROR - error en el indicador 1_1_7_ind_envej.px en el intento intento 2/3
+ERROR - error en el indicador 1_1_8_tasa_depend.px en el intento intento 0/3
+ERROR - error en el indicador 1_1_8_tasa_depend.px en el intento intento 1/3
+ERROR - error en el indicador 1_1_8_tasa_depend.px en el intento intento 2/3
+ERROR - error en el indicador 3_2_19_empr_ss.csv en el intento intento 0/3
+ERROR - error en el indicador 3_2_19_empr_ss.csv en el intento intento 1/3
+ERROR - error en el indicador 3_2_19_empr_ss.csv en el intento intento 2/3
+ERROR - error en el indicador 1_2_35_imp_exp_def_cob.px en el intento intento 0/3
+ERROR - error en el indicador 1_2_35_imp_exp_def_cob.px en el intento intento 1/3
+ERROR - error en el indicador 1_2_35_imp_exp_def_cob.px en el intento intento 2/3
+ERROR - error en el indicador 1_2_36_imp_exp_zonas_geo.px en el intento intento 0/3
+ERROR - error en el indicador 1_2_36_imp_exp_zonas_geo.px en el intento intento 1/3
+ERROR - error en el indicador 1_2_36_imp_exp_zonas_geo.px en el intento intento 2/3
+PRECAUCION - El indicador 5_2_39_isi.csv no tiene enlace de descarga
+PRECAUCION - El indicador 5_2_40_isco.csv no tiene enlace de descarga
+PRECAUCION - El indicador 5_2_41_isv.csv no tiene enlace de descarga
+PRECAUCION - El indicador 5_2_42_iscof.csv no tiene enlace de descarga
+PRECAUCION - El indicador 5_2_43_iss.csv no tiene enlace de descarga
+PRECAUCION - El indicador 5_2_44_isa.csv no tiene enlace de descarga
+PRECAUCION - El indicador 5_2_45_isc.csv no tiene enlace de descarga
+PRECAUCION - El indicador 5_2_46_ise.csv no tiene enlace de descarga
+ERROR - error en el indicador 1_4_55_hipot_const_islas.px en el intento intento 0/3
+ERROR - error en el indicador 1_4_55_hipot_const_islas.px en el intento intento 1/3
+ERROR - error en el indicador 1_4_55_hipot_const_islas.px en el intento intento 2/3
+PRECAUCION - El indicador 7_6_71_def_sup_pub.csv no tiene enlace de descarga
+PRECAUCION - El indicador 8_6_72_estruct_gasto_pub.csv no tiene enlace de descarga
+ERROR - error en el indicador 9_6_73_empleo_publico.csv en el intento intento 0/3
+ERROR - error en el indicador 9_6_73_empleo_publico.csv en el intento intento 1/3
+ERROR - error en el indicador 9_6_73_empleo_publico.csv en el intento intento 2/3
+PRECAUCION - El indicador 3_6_76_conv_col_trab.csv no tiene enlace de descarga
+PRECAUCION - El indicador 10_5_86_afil_medios_ss.csv no tiene enlace de descarga
+PRECAUCION - El indicador _5_88_paro_reg_sepe.csv no tiene enlace de descarga
+PRECAUCION - El indicador 3_5_96_conv_colect.csv no tiene enlace de descarga
+PRECAUCION - El indicador 2_8_102_tur_inter_ine.csv no tiene enlace de descarga
+PRECAUCION - El indicador 1_8_106_gasto_tur_istac.px no tiene enlace de descarga
+ERROR - error en el indicador 1_8_115_adr_revpar_istac.px en el intento intento 0/3
+ERROR - error en el indicador 1_8_115_adr_revpar_istac.px en el intento intento 1/3
+ERROR - error en el indicador 1_8_115_adr_revpar_istac.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_125_pers_benef_lismi_tipos.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_125_pers_benef_lismi_tipos.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_125_pers_benef_lismi_tipos.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_126_importe benef_lismi.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_126_importe benef_lismi.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_126_importe benef_lismi.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_127_pers_benef_lismi_gral.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_127_pers_benef_lismi_gral.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_127_pers_benef_lismi_gral.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_128_pers_benef_suinmi_se.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_128_pers_benef_suinmi_se.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_128_pers_benef_suinmi_se.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_129_pers_benef_suaytepe_se.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_129_pers_benef_suaytepe_se.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_129_pers_benef_suaytepe_se.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_130_pers_benef_sumocotrans_se.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_130_pers_benef_sumocotrans_se.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_130_pers_benef_sumocotrans_se.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_131_pers_benef_assanpresfar_se.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_131_pers_benef_assanpresfar_se.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_131_pers_benef_assanpresfar_se.px en el intento intento 2/3
+ERROR - error en el indicador 1_9_132_pers_benef_tipos_disc.px en el intento intento 0/3
+ERROR - error en el indicador 1_9_132_pers_benef_tipos_disc.px en el intento intento 1/3
+ERROR - error en el indicador 1_9_132_pers_benef_tipos_disc.px en el intento intento 2/3
+ERROR - error en el indicador 1_5_144_pobl_ocup_sectores.px en el intento intento 0/3
+ERROR - error en el indicador 1_5_144_pobl_ocup_sectores.px en el intento intento 1/3
+ERROR - error en el indicador 1_5_144_pobl_ocup_sectores.px en el intento intento 2/3
+ERROR - error en el indicador 1_3_151_imp_exp_prod_agric.px en el intento intento 0/3
+ERROR - error en el indicador 1_3_151_imp_exp_prod_agric.px en el intento intento 1/3
+ERROR - error en el indicador 1_3_151_imp_exp_prod_agric.px en el intento intento 2/3
+ERROR - error en el indicador 1_2_160_ind_conf_empr_arm_istac.px en el intento intento 0/3
+ERROR - error en el indicador 1_2_160_ind_conf_empr_arm_istac.px en el intento intento 1/3
+ERROR - error en el indicador 1_2_160_ind_conf_empr_arm_istac.px en el intento intento 2/3
+ERROR - error en el indicador 1_8_163_ind_conf_hotel_istac.px en el intento intento 0/3
+ERROR - error en el indicador 1_8_163_ind_conf_hotel_istac.px en el intento intento 1/3
+ERROR - error en el indicador 1_8_163_ind_conf_hotel_istac.px en el intento intento 2/3
+PRECAUCION - El indicador 0_2_189_pib_vab_islas.csv no tiene enlace de descarga
+PRECAUCION - El indicador 0_2_195_productividad.csv no tiene enlace de descarga
